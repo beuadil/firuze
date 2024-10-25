@@ -9,4 +9,8 @@ class FiruzeApplication
 fun main(args: Array<String>) {
     runApplication<FiruzeApplication>(*args)
 }
+
 sagol
+
+salam
+
